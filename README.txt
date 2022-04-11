@@ -1,1 +1,4 @@
-Pretty happy with this but I understand this only works because i know the captcha input ends with the start number without any further repeating at the beginning. If there was a random captcha input and it put some more repeated numbers at the front, this would break.
+I created 2 files here, both will achieve the right answer. 
+
+The captcha.js was created first to solve the issue for this specific kata, however i realised that it would not work for random captchas given to it, so i created a way to do this method in the dynamicCaptcha.js file.
+
