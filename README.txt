@@ -1,0 +1,1 @@
+Pretty happy with this but I understand this only works because i know the captcha input ends with the start number without any further repeating at the beginning. If there was a random captcha input and it put some more repeated numbers at the front, this would break.
